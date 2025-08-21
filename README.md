@@ -1,5 +1,5 @@
 ## Hi there 👋
-I´m Fred i like me duck
+I´m Fred 
 <!--
 **Fredf3/Fredf3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
