@@ -31,8 +31,8 @@
 ---
 
 ## 📫 Cómo contactarme
-- ✉️ **Email:** [freddyruiz706@gmail.com]  
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/jos%C3%A9-alfredo-ruiz-mendoza-13315b35a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]    
+- ✉️ **Email:** [freddyruiz706@gmail.com](mailto:freddyruiz706@gmail.com)  
+- 💼 **LinkedIn:** [Mi perfil](https://www.linkedin.com/in/jos%C3%A9-alfredo-ruiz-mendoza-13315b35a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)    
 
 ---
 
